@@ -1,0 +1,16 @@
+{
+  "name": "eu-no-mundo",
+  "version": "1.0.0",
+  "description": "atv parte 2",
+  "main": "index.html",
+  "scripts": {
+    
+  },
+  "keywords": [
+    "eu",
+    "no",
+    "mundo"
+  ],
+  "author": "Philipe Lima",
+  "license": "ISC"
+}
